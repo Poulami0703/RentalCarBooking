@@ -1,0 +1,16 @@
+com\rentalcar\booking\security\JwtTokenProviderTest.class
+com\rentalcar\booking\controller\AuthControllerIntegrationTest.class
+com\rentalcar\booking\controller\VehicleControllerIntegrationTest.class
+com\rentalcar\booking\service\AuthServiceTest.class
+com\rentalcar\booking\controller\ReviewControllerIntegrationTest.class
+com\rentalcar\booking\controller\BookingControllerIntegrationTest.class
+com\rentalcar\booking\controller\UserControllerIntegrationTest.class
+com\rentalcar\booking\RentalCarApplicationTests.class
+com\rentalcar\booking\service\ReviewServiceTest.class
+com\rentalcar\booking\service\UserServiceTest.class
+com\rentalcar\booking\exception\GlobalExceptionHandlerTest.class
+com\rentalcar\booking\service\PaymentServiceTest.class
+com\rentalcar\booking\service\VehicleServiceTest.class
+com\rentalcar\booking\controller\AdminControllerIntegrationTest.class
+com\rentalcar\booking\controller\PaymentControllerIntegrationTest.class
+com\rentalcar\booking\service\BookingServiceTest.class
